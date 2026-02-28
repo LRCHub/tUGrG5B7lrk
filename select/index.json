@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "怪獣のパレード。。",
+  "base_artist": "くしゃみ。。",
+  "createdAt": "2026-02-28T12:57:13.607414Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪獣のパレード。。",
+      "artist": "くしゃみ。。",
+      "has_synced": false,
+      "path": "select/pl_01_怪獣のパレード。。_くしゃみ。。.txt"
+    }
+  ]
+}
